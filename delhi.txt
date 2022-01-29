@@ -1,0 +1,7 @@
+neha->delhi
+rani->delhi
+anisha->delhi
+moni->delhi
+preeti->delhi
+meera->delhi
+neetu->delhi

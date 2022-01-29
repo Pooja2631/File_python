@@ -1,0 +1,13 @@
+deepti->delhi
+chandni->punjab
+priyanka->shimla
+neela->jaiper
+anisha->delhi
+rachu->bangalor
+hema->mpdeepti->delhi
+chandni->punjab
+priyanka->shimla
+neela->jaiper
+anisha->delhi
+rachu->bangalor
+hema->mp
